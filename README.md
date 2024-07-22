@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @issrivastava
-- 👀 I’m interested in Web and Game Development...
-- 🌱 I’m currently learning Computer Engineering..
-- 😄 Pronouns: She/Her...
+- Hi, I'm Sagarika Srivastava
+- Software Engineer || RCOE'27 
