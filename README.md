@@ -1,5 +1,5 @@
 ## 💫 About Me:
-"Hi, I’m an aspiring software engineer passionate about computer science and research. <br>I’m currently seeking internship opportunities in project development, research, and related roles to gain hands-on experience and grow my skills."<br><br>👯 I’m looking to collaborate on Research Projects <br>🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Computer Engineering<br>
+"Hi, I’m an aspiring software engineer passionate about computer science and research. <br>I’m currently seeking internship opportunities in project development, research, and related roles to gain hands-on experience and grow my skills."<br>👯 I’m looking to collaborate on Research Projects <br>🌱 I’m currently learning Computer Engineering<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarikasrivastava46@gmail.com) 
