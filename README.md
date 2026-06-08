@@ -1,5 +1,5 @@
 ## 💫 About Me:
-"Hi, I’m an aspiring computer engineer passionate about computer science and research.<br>I’m currently seeking internship opportunities in project development, research, and related roles to gain hands-on experience and grow my skills.<br> I'm currently working as Machine Learning Intern at AIensure."
+"Hi, I’m an aspiring computer engineer passionate about computer science and research.<br> I'm currently working as Machine Learning Intern at AIensure."
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarikasrivastava46@gmail.com) 
